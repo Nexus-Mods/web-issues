@@ -14,3 +14,9 @@ A good template to use would be as follows:
  Expected result:
  Actual result:
  ```
+ 
+For some bugs, other useful details may include:
+```
+ Username on the Nexus:
+ Link to the affected mod/image:
+ ```
