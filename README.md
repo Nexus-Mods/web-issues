@@ -9,14 +9,11 @@ Please give as much information as possible as to how you came across the error 
 A good template to use would be as follows:
  ```
  URL: 
+ Username on the Nexus:
  Bug/error being reported:
  Steps to reproduce:
  Expected result:
  Actual result:
+ Link to the affected mod/image (if relevant):
  ```
  
-For some bugs, other useful details may include:
-```
- Username on the Nexus:
- Link to the affected mod/image:
- ```
