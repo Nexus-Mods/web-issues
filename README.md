@@ -1,6 +1,8 @@
-# rd.nexusmods.com issue tracker
+# nexusmods.com issue tracker
 
 Before submitting a bug please check the issue tracker [https://github.com/Nexus-Mods/web-issues/issues] and see if your bug is already reported and open.
+
+Please note, this Github page is for bugs encountered with the Nexus Mods website ONLY.
 
 ## How to submit a bug
 
