@@ -1,0 +1,293 @@
+Trace file has been created: TraceLog20200129020954.txt
+Mod Manager Version: 0.71.1.0
+OS version: Microsoft Windows NT 6.2.9200.0
+Installed .NET Versions:
+	CDF SP 0
+	v2.0.50727 SP 2
+	v3.0 SP 2
+	v3.5 SP 1
+	v4 SP 0
+	v4.0 SP 0
+	v4.5: 4.6 or later
+Tracing is forced: False
+
+Discovering Game Mode Factories...
+    Looking in: C:\Program Files (x86)\Nexus Mod Manager\GameModes
+    Checking: Antlr3.Runtime.dll
+    Checking: BreakingWheel.dll
+        Initializing: Nexus.Client.Games.BreakingWheel.BreakingWheelGameModeFactory
+    Checking: CSharpScript.dll
+    Checking: DarkSouls.dll
+        Initializing: Nexus.Client.Games.DarkSouls.DarkSoulsGameModeFactory
+    Checking: DarkSouls2.dll
+        Initializing: Nexus.Client.Games.DarkSouls2.DarkSouls2GameModeFactory
+    Checking: DragonAge.dll
+        Initializing: Nexus.Client.Games.DragonAge.DragonAgeGameModeFactory
+    Checking: DragonAge2.dll
+        Initializing: Nexus.Client.Games.DragonAge2.DragonAge2GameModeFactory
+    Checking: DragonsDogma.dll
+        Initializing: Nexus.Client.Games.DragonsDogma.DragonsDogmaGameModeFactory
+    Checking: Enderal.dll
+        Initializing: Nexus.Client.Games.Enderal.EnderalGameModeFactory
+    Checking: Fallout3.CSharpScript.dll
+    Checking: Fallout3.dll
+        Initializing: Nexus.Client.Games.Fallout3.Fallout3GameModeFactory
+    Checking: Fallout3.XmlScript.dll
+        Cannot load C:\Program Files (x86)\Nexus Mod Manager\GameModes\Fallout3.XmlScript.dll: cannot find dependency Antlr3.Runtime, Version=3.4.1.9004, Culture=neutral, PublicKeyToken=eb42632606e9261f
+    Checking: Fallout4.CSharpScript.dll
+    Checking: Fallout4.dll
+        Initializing: Nexus.Client.Games.Fallout4.Fallout4GameModeFactory
+    Checking: Fallout4.XmlScript.dll
+        Cannot load C:\Program Files (x86)\Nexus Mod Manager\GameModes\Fallout4.XmlScript.dll: cannot find dependency Antlr3.Runtime, Version=3.4.1.9004, Culture=neutral, PublicKeyToken=eb42632606e9261f
+    Checking: Fallout4VR.dll
+        Initializing: Nexus.Client.Games.Fallout4VR.Fallout4VRGameModeFactory
+    Checking: FalloutNV.CSharpScript.dll
+    Checking: FalloutNV.dll
+        Initializing: Nexus.Client.Games.FalloutNV.FalloutNVGameModeFactory
+    Checking: FalloutNV.XmlScript.dll
+        Cannot load C:\Program Files (x86)\Nexus Mod Manager\GameModes\FalloutNV.XmlScript.dll: cannot find dependency Antlr3.Runtime, Version=3.4.1.9004, Culture=neutral, PublicKeyToken=eb42632606e9261f
+    Checking: GamebryoBase.dll
+    Checking: Grimrock.dll
+        Initializing: Nexus.Client.Games.Grimrock.GrimrockGameModeFactory
+    Checking: ModScript.dll
+        Cannot load C:\Program Files (x86)\Nexus Mod Manager\GameModes\ModScript.dll: cannot find dependency Antlr3.Runtime, Version=3.4.1.9004, Culture=neutral, PublicKeyToken=eb42632606e9261f
+    Checking: MonsterHunterWorld.dll
+        Initializing: Nexus.Client.Games.MonsterHunterWorld.MonsterHunterWorldGameModeFactory
+    Checking: Morrowind.dll
+        Initializing: Nexus.Client.Games.Morrowind.MorrowindGameModeFactory
+    Checking: Morrowind.ModScript.dll
+    Checking: NoMansSky.dll
+        Initializing: Nexus.Client.Games.NoMansSky.NoMansSkyGameModeFactory
+    Checking: Oblivion.dll
+        Initializing: Nexus.Client.Games.Oblivion.OblivionGameModeFactory
+    Checking: Oblivion.ModScript.dll
+    Checking: Skyrim.CSharpScript.dll
+    Checking: Skyrim.dll
+        Initializing: Nexus.Client.Games.Skyrim.SkyrimGameModeFactory
+    Checking: Skyrim.XmlScript.dll
+        Cannot load C:\Program Files (x86)\Nexus Mod Manager\GameModes\Skyrim.XmlScript.dll: cannot find dependency Antlr3.Runtime, Version=3.4.1.9004, Culture=neutral, PublicKeyToken=eb42632606e9261f
+    Checking: SkyrimSE.CSharpScript.dll
+    Checking: SkyrimSE.dll
+        Initializing: Nexus.Client.Games.SkyrimSE.SkyrimSEGameModeFactory
+    Checking: SkyrimSE.XmlScript.dll
+        Cannot load C:\Program Files (x86)\Nexus Mod Manager\GameModes\SkyrimSE.XmlScript.dll: cannot find dependency Antlr3.Runtime, Version=3.4.1.9004, Culture=neutral, PublicKeyToken=eb42632606e9261f
+    Checking: SkyrimVR.dll
+        Initializing: Nexus.Client.Games.SkyrimVR.SkyrimVRGameModeFactory
+    Checking: Starbound.dll
+        Initializing: Nexus.Client.Games.Starbound.StarboundGameModeFactory
+    Checking: StateOfDecay.dll
+        Initializing: Nexus.Client.Games.StateOfDecay.StateOfDecayGameModeFactory
+    Checking: TESO.dll
+        Initializing: Nexus.Client.Games.TESO.TESOGameModeFactory
+    Checking: WarThunder.dll
+        Initializing: Nexus.Client.Games.WarThunder.WarThunderGameModeFactory
+    Checking: Witcher2.dll
+        Initializing: Nexus.Client.Games.Witcher2.Witcher2GameModeFactory
+    Checking: Witcher3.dll
+        Initializing: Nexus.Client.Games.Witcher3.Witcher3GameModeFactory
+    Checking: WorldOfTanks.dll
+        Initializing: Nexus.Client.Games.WorldOfTanks.WoTGameModeFactory
+    Checking: XCOM2.dll
+        Initializing: Nexus.Client.Games.XCOM2.XCOM2GameModeFactory
+    Checking: XmlScript.dll
+        Cannot load C:\Program Files (x86)\Nexus Mod Manager\GameModes\XmlScript.dll: cannot find dependency Antlr3.Runtime, Version=3.4.1.9004, Culture=neutral, PublicKeyToken=eb42632606e9261f
+    Checking: XRebirth.dll
+        Initializing: Nexus.Client.Games.XRebirth.XRebirthGameModeFactory
+Loading Game Mode Factories for Installed Games...
+    Loading FalloutNV: Supported
+Determining Game Mode: (From Selection Form) FalloutNV
+Game Mode Factory Selected: Fallout: New Vegas (FalloutNV)
+Creating Game Mode mutex (Attempt: 0)
+Game Mode Built: Fallout: New Vegas (FalloutNV)
+    Installation Path: c:\program files (x86)\steam\steamapps\common\Fallout New Vegas
+    Install Info Path: c:\Games\Nexus Mod Manager\FalloutNV\Install Info
+    Mod Path: c:\Games\Nexus Mod Manager\FalloutNV\Mods
+    Mod Cache Path: c:\Games\Nexus Mod Manager\FalloutNV\Mods\cache
+    Mod Download Cache: c:\Games\Nexus Mod Manager\FalloutNV\Mods\downloads
+    Overwrite Path: c:\Games\Nexus Mod Manager\FalloutNV\Install Info\overwrites
+    Virtual Install Path: c:\Games\Nexus Mod Manager\FalloutNV\Mods
+    NMM Link Path: 
+Scanning for read-only files...
+Initializing Mod Repository...
+Registering supported Script Types...
+    Discovering Script Types...
+        Discovering Generic Script Types...
+            Looking in: C:\Program Files (x86)\Nexus Mod Manager\ScriptTypes
+            Checking: Antlr3.Runtime.dll
+            Checking: CSharpScript.dll
+                Initializing: Nexus.Client.ModManagement.Scripting.CSharpScript.CSharpScriptType
+            Checking: ModScript.dll
+                Initializing: Nexus.Client.ModManagement.Scripting.ModScript.ModScriptType
+            Checking: XmlScript.dll
+                Initializing: Nexus.Client.ModManagement.Scripting.XmlScript.XmlScriptType
+        Discovering Game Mode Specific Script Types...
+            Looking in: C:\Program Files (x86)\Nexus Mod Manager\GameModes
+            Checking: FalloutNV.CSharpScript.dll
+                Initializing: Nexus.Client.Games.FalloutNV.Scripting.CSharpScript.FalloutNVCSharpScriptType
+            Checking: FalloutNV.XmlScript.dll
+                Initializing: Nexus.Client.Games.FalloutNV.Scripting.XmlScript.FalloutNVXmlScriptType
+    Found 3 script types.
+Registering supported mod formats...
+    Discovering Mod Formats...
+        Looking in: C:\Program Files (x86)\Nexus Mod Manager\ModFormats
+        Checking: FOMod.dll
+            Initializing: Nexus.Client.Mods.Formats.FOMod.FOModFormat
+    Found 1 formats.
+Finding managed mods...
+    Discovering Managed Mods...
+        Looking in: c:\Games\Nexus Mod Manager\FalloutNV\Mods
+    Found 0 managed mods.
+Initializing Install Log...
+    Checking if upgrade is required...
+    Path: c:\Games\Nexus Mod Manager\FalloutNV\Install Info\InstallLog.xml
+    Loaded from XML.
+    Found Dummy Mod: ORIGINAL_VALUE...OK
+Initializing Plugin Management Services...
+    Initializing Plugin Registry...
+        Discovering Managed Plugins...
+            Discovering Plugins...
+                Looking in: c:\program files (x86)\steam\steamapps\common\Fallout New Vegas\Data
+                Found: c:\program files (x86)\steam\steamapps\common\Fallout New Vegas\Data\CaravanPack.esm
+                Found: c:\program files (x86)\steam\steamapps\common\Fallout New Vegas\Data\ClassicPack.esm
+                Found: c:\program files (x86)\steam\steamapps\common\Fallout New Vegas\Data\DeadMoney.esm
+                Found: c:\program files (x86)\steam\steamapps\common\Fallout New Vegas\Data\FalloutNV.esm
+                Found: c:\program files (x86)\steam\steamapps\common\Fallout New Vegas\Data\GunRunnersArsenal.esm
+                Found: c:\program files (x86)\steam\steamapps\common\Fallout New Vegas\Data\HonestHearts.esm
+                Found: c:\program files (x86)\steam\steamapps\common\Fallout New Vegas\Data\LonesomeRoad.esm
+                Found: c:\program files (x86)\steam\steamapps\common\Fallout New Vegas\Data\MercenaryPack.esm
+                Found: c:\program files (x86)\steam\steamapps\common\Fallout New Vegas\Data\OldWorldBlues.esm
+                Found: c:\program files (x86)\steam\steamapps\common\Fallout New Vegas\Data\TribalPack.esm
+            Found: c:\program files (x86)\steam\steamapps\common\Fallout New Vegas\Data\CaravanPack.esm
+                Registered.
+            Found: c:\program files (x86)\steam\steamapps\common\Fallout New Vegas\Data\ClassicPack.esm
+                Registered.
+            Found: c:\program files (x86)\steam\steamapps\common\Fallout New Vegas\Data\DeadMoney.esm
+                Registered.
+            Found: c:\program files (x86)\steam\steamapps\common\Fallout New Vegas\Data\FalloutNV.esm
+                Registered.
+            Found: c:\program files (x86)\steam\steamapps\common\Fallout New Vegas\Data\GunRunnersArsenal.esm
+                Registered.
+            Found: c:\program files (x86)\steam\steamapps\common\Fallout New Vegas\Data\HonestHearts.esm
+                Registered.
+            Found: c:\program files (x86)\steam\steamapps\common\Fallout New Vegas\Data\LonesomeRoad.esm
+                Registered.
+            Found: c:\program files (x86)\steam\steamapps\common\Fallout New Vegas\Data\MercenaryPack.esm
+                Registered.
+            Found: c:\program files (x86)\steam\steamapps\common\Fallout New Vegas\Data\OldWorldBlues.esm
+                Registered.
+            Found: c:\program files (x86)\steam\steamapps\common\Fallout New Vegas\Data\TribalPack.esm
+                Registered.
+        Found 10 managed plugins.
+    Initializing Plugin Order Log...
+        Loading Plugin Order...
+            Getting Plugin Load Order from the load order manager...
+            Loading c:\program files (x86)\steam\steamapps\common\Fallout New Vegas\Data\FalloutNV.esm (IsNull=False)
+            Loading c:\program files (x86)\steam\steamapps\common\Fallout New Vegas\Data\DeadMoney.esm (IsNull=False)
+            Loading c:\program files (x86)\steam\steamapps\common\Fallout New Vegas\Data\HonestHearts.esm (IsNull=False)
+            Loading c:\program files (x86)\steam\steamapps\common\Fallout New Vegas\Data\LonesomeRoad.esm (IsNull=False)
+            Loading c:\program files (x86)\steam\steamapps\common\Fallout New Vegas\Data\OldWorldBlues.esm (IsNull=False)
+            Loading c:\program files (x86)\steam\steamapps\common\Fallout New Vegas\Data\CaravanPack.esm (IsNull=False)
+            Loading c:\program files (x86)\steam\steamapps\common\Fallout New Vegas\Data\ClassicPack.esm (IsNull=False)
+            Loading c:\program files (x86)\steam\steamapps\common\Fallout New Vegas\Data\MercenaryPack.esm (IsNull=False)
+            Loading c:\program files (x86)\steam\steamapps\common\Fallout New Vegas\Data\TribalPack.esm (IsNull=False)
+            Loading c:\program files (x86)\steam\steamapps\common\Fallout New Vegas\Data\GunRunnersArsenal.esm (IsNull=False)
+    Initializing Active Plugin Log...
+    Initializing Plugin Manager...
+Initializing Activity Monitor...
+Initializing Mod Activation Monitor...
+Initializing Mod Manager...
+Upgrading replaced Mods...
+Uninstalling missing Mods...
+Loading mods that are queued to be added.
+Launch Commands:
+    Plain Command: c:\program files (x86)\steam\steamapps\common\Fallout New Vegas\falloutNV.exe (IsNull=False)
+    NVSE Command: c:\program files (x86)\steam\steamapps\common\Fallout New Vegas\nvse_loader.exe (IsNull=False)
+    FNV4Gb Command: c:\program files (x86)\steam\steamapps\common\Fallout New Vegas\fnv4gb.exe (IsNull=False)
+    Custom Command:  (IsNull=True)
+Launch Commands:
+    BOSS Command:  (IsNull=True)
+    LOOT Command: C:\Program Files (x86)\LOOT\LOOT.exe (IsNull=False)
+    FNVEdit Command:  (IsNull=False)
+Loading Plugins into Plugin List: 10
+    Loading: FalloutNV.esm (c:\program files (x86)\steam\steamapps\common\Fallout New Vegas\Data\FalloutNV.esm) (False)
+    Loading: DeadMoney.esm (c:\program files (x86)\steam\steamapps\common\Fallout New Vegas\Data\DeadMoney.esm) (False)
+    Loading: HonestHearts.esm (c:\program files (x86)\steam\steamapps\common\Fallout New Vegas\Data\HonestHearts.esm) (False)
+    Loading: LonesomeRoad.esm (c:\program files (x86)\steam\steamapps\common\Fallout New Vegas\Data\LonesomeRoad.esm) (False)
+    Loading: OldWorldBlues.esm (c:\program files (x86)\steam\steamapps\common\Fallout New Vegas\Data\OldWorldBlues.esm) (False)
+    Loading: CaravanPack.esm (c:\program files (x86)\steam\steamapps\common\Fallout New Vegas\Data\CaravanPack.esm) (False)
+    Loading: ClassicPack.esm (c:\program files (x86)\steam\steamapps\common\Fallout New Vegas\Data\ClassicPack.esm) (False)
+    Loading: MercenaryPack.esm (c:\program files (x86)\steam\steamapps\common\Fallout New Vegas\Data\MercenaryPack.esm) (False)
+    Loading: TribalPack.esm (c:\program files (x86)\steam\steamapps\common\Fallout New Vegas\Data\TribalPack.esm) (False)
+    Loading: GunRunnersArsenal.esm (c:\program files (x86)\steam\steamapps\common\Fallout New Vegas\Data\GunRunnersArsenal.esm) (False)
+Setting up listener on Nexus Mod Manager-FalloutNVIpcServer/FalloutNVListener at 2020-01-29 02:10:00
+Running Application.
+Adding Mod to running instance of client: nxm://falloutnv/mods/53635/files/1000039152?key=nDj5kNvDQa_LPJYNtRuQ8w&expires=1580498701&user_id=48500723
+[nxm://falloutnv/mods/53635/files/1000039152?key=nDj5kNvDQa_LPJYNtRuQ8w&expires=1580498701&user_id=48500723] Adding Mod to AddModQueue
+[nxm://falloutnv/mods/53635/files/1000039152?key=nDj5kNvDQa_LPJYNtRuQ8w&expires=1580498701&user_id=48500723] Starting Add Mod Task.
+[nxm://falloutnv/mods/53635/files/1000039152?key=nDj5kNvDQa_LPJYNtRuQ8w&expires=1580498701&user_id=48500723] Starting Add Mod Task.
+[nxm://falloutnv/mods/53635/files/1000039152?key=nDj5kNvDQa_LPJYNtRuQ8w&expires=1580498701&user_id=48500723] Downloading Files.
+[nxm://falloutnv/mods/53635/files/1000039152?key=nDj5kNvDQa_LPJYNtRuQ8w&expires=1580498701&user_id=48500723] Launching downloading of https://cf-files.nexusmods.com/cdn/130/53635/NVAC - New Vegas Anti Crash-53635-7-5-1-0.zip?md5=uW2Tz81cgaY_4L8RpVTp7w&expires=1580340315&user_id=48500723.
+[https://cf-files.nexusmods.com/cdn/130/53635/NVAC - New Vegas Anti Crash-53635-7-5-1-0.zip?md5=uW2Tz81cgaY_4L8RpVTp7w&expires=1580340315&user_id=48500723] Retrieving meta data.
+[https://cf-files.nexusmods.com/cdn/130/53635/NVAC - New Vegas Anti Crash-53635-7-5-1-0.zip?md5=uW2Tz81cgaY_4L8RpVTp7w&expires=1580340315&user_id=48500723] Downloading.
+[c:\Games\Nexus Mod Manager\FalloutNV\Mods\downloads\NVAC - New Vegas Anti Crash-53635-7-5-1-0.zip] Adding mod from archive.
+Adding Mod to running instance of client: nxm://falloutnv/mods/57174/files/1000057546?key=GIW9jJ6UhxvNNnf8gxsPOA&expires=1580498965&user_id=48500723
+[nxm://falloutnv/mods/57174/files/1000057546?key=GIW9jJ6UhxvNNnf8gxsPOA&expires=1580498965&user_id=48500723] Adding Mod to AddModQueue
+[nxm://falloutnv/mods/57174/files/1000057546?key=GIW9jJ6UhxvNNnf8gxsPOA&expires=1580498965&user_id=48500723] Starting Add Mod Task.
+[nxm://falloutnv/mods/57174/files/1000057546?key=GIW9jJ6UhxvNNnf8gxsPOA&expires=1580498965&user_id=48500723] Starting Add Mod Task.
+[nxm://falloutnv/mods/57174/files/1000057546?key=GIW9jJ6UhxvNNnf8gxsPOA&expires=1580498965&user_id=48500723] Downloading Files.
+[nxm://falloutnv/mods/57174/files/1000057546?key=GIW9jJ6UhxvNNnf8gxsPOA&expires=1580498965&user_id=48500723] Launching downloading of https://cf-files.nexusmods.com/cdn/130/57174/UIO - User Interface Organizer-57174-2-09-1573916444.7z?md5=RUfmQ8JhD0oMOzpwmShTRQ&expires=1580340599&user_id=48500723.
+[https://cf-files.nexusmods.com/cdn/130/57174/UIO - User Interface Organizer-57174-2-09-1573916444.7z?md5=RUfmQ8JhD0oMOzpwmShTRQ&expires=1580340599&user_id=48500723] Retrieving meta data.
+[https://cf-files.nexusmods.com/cdn/130/57174/UIO - User Interface Organizer-57174-2-09-1573916444.7z?md5=RUfmQ8JhD0oMOzpwmShTRQ&expires=1580340599&user_id=48500723] Downloading.
+[c:\Games\Nexus Mod Manager\FalloutNV\Mods\downloads\UIO - User Interface Organizer-57174-2-09-1573916444.7z] Adding mod from archive.
+Adding Mod to running instance of client: nxm://falloutnv/mods/54460/files/1000033708?key=Mt760zAC5l6kI4tgP6w2Og&expires=1580499185&user_id=48500723
+[nxm://falloutnv/mods/54460/files/1000033708?key=Mt760zAC5l6kI4tgP6w2Og&expires=1580499185&user_id=48500723] Adding Mod to AddModQueue
+[nxm://falloutnv/mods/54460/files/1000033708?key=Mt760zAC5l6kI4tgP6w2Og&expires=1580499185&user_id=48500723] Starting Add Mod Task.
+[nxm://falloutnv/mods/54460/files/1000033708?key=Mt760zAC5l6kI4tgP6w2Og&expires=1580499185&user_id=48500723] Starting Add Mod Task.
+[nxm://falloutnv/mods/54460/files/1000033708?key=Mt760zAC5l6kI4tgP6w2Og&expires=1580499185&user_id=48500723] Downloading Files.
+[nxm://falloutnv/mods/54460/files/1000033708?key=Mt760zAC5l6kI4tgP6w2Og&expires=1580499185&user_id=48500723] Launching downloading of https://files.nexus-cdn.com/130/54460/Fallout Character Overhaul 3.0-54460-3-0.rar?md5=IRV1YilHPBq8VMB0cbmb4A&expires=1580340800&user_id=48500723.
+[https://files.nexus-cdn.com/130/54460/Fallout Character Overhaul 3.0-54460-3-0.rar?md5=IRV1YilHPBq8VMB0cbmb4A&expires=1580340800&user_id=48500723] Retrieving meta data.
+[https://files.nexus-cdn.com/130/54460/Fallout Character Overhaul 3.0-54460-3-0.rar?md5=IRV1YilHPBq8VMB0cbmb4A&expires=1580340800&user_id=48500723] Downloading.
+[c:\Games\Nexus Mod Manager\FalloutNV\Mods\downloads\Fallout Character Overhaul 3.0-54460-3-0.rar] Adding mod from archive.
+Adding Mod to running instance of client: nxm://falloutnv/mods/54460/files/1000033781?key=cs59ICsGt6jXp7zqio739Q&expires=1580500048&user_id=48500723
+[nxm://falloutnv/mods/54460/files/1000033781?key=cs59ICsGt6jXp7zqio739Q&expires=1580500048&user_id=48500723] Adding Mod to AddModQueue
+[nxm://falloutnv/mods/54460/files/1000033781?key=cs59ICsGt6jXp7zqio739Q&expires=1580500048&user_id=48500723] Starting Add Mod Task.
+[nxm://falloutnv/mods/54460/files/1000033781?key=cs59ICsGt6jXp7zqio739Q&expires=1580500048&user_id=48500723] Starting Add Mod Task.
+[nxm://falloutnv/mods/54460/files/1000033781?key=cs59ICsGt6jXp7zqio739Q&expires=1580500048&user_id=48500723] Downloading Files.
+[nxm://falloutnv/mods/54460/files/1000033781?key=cs59ICsGt6jXp7zqio739Q&expires=1580500048&user_id=48500723] Launching downloading of https://cf-files.nexusmods.com/cdn/130/54460/Fallout Character Overhaul 3.01-54460-3-01.rar?md5=le4sHz20hXJ_5u5tnXhynA&expires=1580341665&user_id=48500723.
+[https://cf-files.nexusmods.com/cdn/130/54460/Fallout Character Overhaul 3.01-54460-3-01.rar?md5=le4sHz20hXJ_5u5tnXhynA&expires=1580341665&user_id=48500723] Retrieving meta data.
+[https://cf-files.nexusmods.com/cdn/130/54460/Fallout Character Overhaul 3.01-54460-3-01.rar?md5=le4sHz20hXJ_5u5tnXhynA&expires=1580341665&user_id=48500723] Downloading.
+[c:\Games\Nexus Mod Manager\FalloutNV\Mods\downloads\Fallout Character Overhaul 3.01-54460-3-01.rar] Adding mod from archive.
+Creating C# Script Sandbox...
+    ApplicationBase: C:\Program Files (x86)\Nexus Mod Manager
+    PrivateBinPath: C:\Program Files (x86)\Nexus Mod Manager\GameModes
+Preparing to write load order to file "C:\Users\Windows 10\AppData\Local\FalloutNV\plugins.txt".
+Got access to "C:\Users\Windows 10\AppData\Local\FalloutNV\plugins.txt".
+
+Tracing an Unhandled Exception:
+Exception: 
+Message: 
+	Insert
+Full Trace: 
+	System.Exception: Insert ---> System.ArgumentOutOfRangeException: El índice debe estar dentro de los límites de la lista.
+Nombre del parámetro: index
+   en System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   en System.Collections.Generic.List`1.Insert(Int32 index, T item)
+   en Nexus.Client.Util.Collections.ThreadSafeObservableList`1.Insert(Int32 index, T item)
+   en Nexus.Client.PluginManagement.OrderLog.PluginOrderLog.TransactionEnlistment.SetPluginOrder(IList`1 p_lstOrderedPlugins)
+   --- Fin del seguimiento de la pila de la excepción interna ---
+   en Nexus.Client.PluginManagement.OrderLog.PluginOrderLog.TransactionEnlistment.SetPluginOrder(IList`1 p_lstOrderedPlugins)
+   en Nexus.Client.PluginManagement.ApplyLoadOrderTask.DoWork(Object[] args)
+   en Nexus.Client.ThreadedBackgroundTask.RunThreadedWork(Object p_objArgs)
+   en Nexus.Client.Util.Threading.TrackedThread.RunParameterizedThread(Object p_objParam)
+   en System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   en System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   en System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   en System.Threading.ThreadHelper.ThreadStart(Object obj)
+Inner Exception:
+System.ArgumentOutOfRangeException: El índice debe estar dentro de los límites de la lista.
+Nombre del parámetro: index
+   en System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   en System.Collections.Generic.List`1.Insert(Int32 index, T item)
+   en Nexus.Client.Util.Collections.ThreadSafeObservableList`1.Insert(Int32 index, T item)
+   en Nexus.Client.PluginManagement.OrderLog.PluginOrderLog.TransactionEnlistment.SetPluginOrder(IList`1 p_lstOrderedPlugins)
+
