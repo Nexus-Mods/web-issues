@@ -1,3 +1,6 @@
+## Your username/username(s) affected
+<!-- list of affected usernames -->
+
 ## Bug/error being reported:
 <!-- A description of the bug that you are reporting -->
 
