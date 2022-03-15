@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Download Speed Troubleshooting
+    url: https://help.nexusmods.com/article/92-im-having-download-issues-what-can-i-do
+    about: Please follow the troubleshooting instructions here if you downloads are slow. 
+  - name: Vortex Bug Reports and Suggestions
+    url: https://github.com/Nexus-Mods/Vortex/issues/new/choose
+    about: Please provide feedback related to the Vortex mod manager here. 
+  - name: Open Bug Bounty
+    url: https://www.openbugbounty.org/bugbounty/tomrmason/
+    about: Please report security vulnerabilities here.
