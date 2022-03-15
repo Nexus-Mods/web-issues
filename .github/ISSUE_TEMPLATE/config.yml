@@ -1,4 +1,4 @@
-blank_issues_enabled: false
+blank_issues_enabled: true
 contact_links:
   - name: Download Speed Troubleshooting
     url: https://help.nexusmods.com/article/92-im-having-download-issues-what-can-i-do
