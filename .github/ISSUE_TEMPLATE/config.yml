@@ -2,6 +2,7 @@ blank_issues_enabled: false
 contact_links:
   - name: Suggest a new feature
     url: https://feedback.nexusmods.com/
+    about: Got an idea for a new feature or improvement? Submit it on our dedicated feedback page here! 
   - name: Download Speed Troubleshooting
     url: https://help.nexusmods.com/article/92-im-having-download-issues-what-can-i-do
     about: Please follow the troubleshooting instructions here if you are experiencing slow downloads. 
