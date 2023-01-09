@@ -1,7 +1,7 @@
 ---
-name: Bug report
-about: Create a report to help us improve
-title: ''
+name: dag40
+about: plugin manager failed 
+title: ''plugin manager
 labels: ''
 assignees: ''
 
